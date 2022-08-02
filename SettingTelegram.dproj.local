@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.434,C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\SettingUNO.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,C:\Users\Elewlian\Documents\Embarcadero\Studio\telegamConfig\SettingUNO.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\SettingUNO.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Main.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.172,=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.436,C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Main.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,C:\Users\Elewlian\Documents\Embarcadero\Studio\telegamConfig\SettingTelegram.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\telegamConfig\SettingUNO.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.755,C:\Users\Elewlian\Documents\Embarcadero\Studio\telegamConfig\Main.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,C:\Users\Elewlian\Desktop\createepl\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,=C:\Users\Elewlian\Desktop\createepl\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.755,C:\Users\Elewlian\Documents\Embarcadero\Studio\telegamConfig\Main.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\universalApplicationToConfig\Main.pas</Transaction>
+  </Transactions>
+</BorlandProject>
